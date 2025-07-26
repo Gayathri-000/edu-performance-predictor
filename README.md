@@ -22,7 +22,7 @@ A Streamlit-based web app that predicts student performance using activity data,
 - scikit-learn
 - pandas
 - Streamlit
-- matplotlib / seaborn
+- matplotlib
 
 ---
 
